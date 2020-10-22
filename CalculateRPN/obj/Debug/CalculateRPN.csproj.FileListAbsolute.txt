@@ -1,0 +1,7 @@
+C:\Users\arsidex\source\repos\CalculateRPN\CalculateRPN\obj\Debug\CalculateRPN.csprojAssemblyReference.cache
+C:\Users\arsidex\source\repos\CalculateRPN\CalculateRPN\obj\Debug\CalculateRPN.csproj.CoreCompileInputs.cache
+C:\Users\arsidex\source\repos\CalculateRPN\CalculateRPN\bin\Debug\CalculateRPN.exe.config
+C:\Users\arsidex\source\repos\CalculateRPN\CalculateRPN\bin\Debug\CalculateRPN.exe
+C:\Users\arsidex\source\repos\CalculateRPN\CalculateRPN\bin\Debug\CalculateRPN.pdb
+C:\Users\arsidex\source\repos\CalculateRPN\CalculateRPN\obj\Debug\CalculateRPN.exe
+C:\Users\arsidex\source\repos\CalculateRPN\CalculateRPN\obj\Debug\CalculateRPN.pdb
